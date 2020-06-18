@@ -3,6 +3,7 @@ import { Text, View, StyleSheet, Button, ScrollView, StatusBar, TouchableOpacity
 import { BarCodeScanner } from 'expo-barcode-scanner';
 import moment from "moment";
 import momenttimer from "moment-timer";
+// First change
 
 // Initialize the react-native timer
 function Timer ({ interval }) {
